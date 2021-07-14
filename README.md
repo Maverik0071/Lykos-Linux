@@ -1,6 +1,8 @@
-# LykosOS - A Linx distribution with a touch of nix, introduced into the database that can run containers.  I have decided to run an Arch Linux distribtion with Nix because this is my own personal operating system that I have configured and decided to release it to the work.  
+# LykosOS - A Linx distribution with a touch of nix, introduced into the database that can run containers. 
 
 An operating System with Arch Linux + NixOS
+
+I have decided to run an Arch Linux distribtion with Nix because this is my own personal operating system that I have configured and decided to release it to the work. 
 
 This is just the testing area for the OS.  An iso will be coming soon....link coming soon......
 
