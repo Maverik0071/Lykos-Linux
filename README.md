@@ -1,9 +1,7 @@
-# LykosOS - A Linx distribution with a touch of nix, introduced into the database that can run containers. 
+# LykosOS
 
-An operating System with Arch Linux + NixOS
+An operating System with Arch Linux
 
-I have decided to run an Arch Linux distribtion with Nix because this is my own personal operating system that I have configured and decided to release it to the work. 
+I have decided to run an Arch Linux distribtion with a script that will help you load what is needed to start what is needed for any one going into linux as a beginner or an advanced user.  I just use it for cyber security since that is what I am going into.  These are just my personal programs. This is just a script for right now.  This is the beta version while I currently create the iso.  I am still trying to create this distro and put the right tools together for basic use.  
 
-This is just the testing area for the OS.  An iso will be coming soon....link coming soon......
 
-![2021-07-13-150247_1920x2162_scrot](https://user-images.githubusercontent.com/55121581/125564469-c563367f-aec2-4866-b114-1351e54775da.png)
